@@ -36,7 +36,7 @@ There are some [sample projects](https://github.com/don/BluetoothSerial/tree/mas
 ## Methods
 
 - [bluetoothSerial.connect](#connect)
-- [bluetoothSerial.connectInsecure](#connectInsecure)
+- [bluetoothSerial.connectInsecure](#connectinsecure)
 - [bluetoothSerial.disconnect](#disconnect)
 - [bluetoothSerial.write](#write)
 - [bluetoothSerial.available](#available)
